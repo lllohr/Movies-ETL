@@ -1,4 +1,5 @@
 #Ignore these
+archive/credits.csv
 movies_metadata.csv
 wikipedia-movies.json
 # Byte-compiled / optimized / DLL files
