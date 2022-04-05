@@ -1,4 +1,5 @@
 #Ignore these
+movies_metadata.csv
 keywords.csv
 ratings_small.csv
 ratings.csv
