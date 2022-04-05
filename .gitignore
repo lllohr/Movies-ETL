@@ -1,4 +1,6 @@
 #Ignore these
+keywords.csv
+ratings_small.csv
 ratings.csv
 archive/credits.csv
 movies_metadata.csv
