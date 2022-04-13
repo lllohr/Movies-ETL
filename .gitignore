@@ -1,5 +1,6 @@
 #Ignore these
 config.py
+ETL_create_database-Copy1.ipynb
 movies_metadata.csv
 keywords.csv
 ratings_small.csv
